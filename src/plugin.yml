@@ -1,0 +1,23 @@
+name: Vakardia
+version: 1.0
+api-version: 1.12
+author: MK_16#8769
+Mon-discord: https://discord.gg/zQ5cC5V
+main: be.mk.vakardia.Vakardia
+commands:
+  test:
+    description: command réserver au dev !
+  money:
+  pay:
+  gmc:
+  gms:
+  gmsp:
+  gm:
+  speedfly:
+  speedwalk:
+  heal:
+  warp:
+  setwarp:
+  day:
+  night:
+  warplist:
